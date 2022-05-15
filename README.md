@@ -1,5 +1,5 @@
 # Simple World Cup Scoreboard Console Application
-This repository contains a simple console application to track World Cup fixture from Scoreboard.
+This repository contains a simple console application of World Cup fixture from Scoreboard.
 
 Jdk : Amazon Corrato 11.0.15_9
 https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
